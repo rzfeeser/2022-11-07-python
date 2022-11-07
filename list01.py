@@ -1,5 +1,11 @@
 #!/usr/bin/python3
 
+"""
+Zach says
+always comment stuff
+"""
+
+
 # create an empty list
 mylist = []
 
