@@ -6,6 +6,8 @@ import requests  # see requests webpage for usage
 
 result = requests.get('http://api.open-notify.org/astros.json')
 
+print(dir(result))
+
 # if we want to see the JSON attached to the result
 print(result.json())
 
